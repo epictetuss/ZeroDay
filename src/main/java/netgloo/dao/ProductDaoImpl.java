@@ -14,7 +14,8 @@ import java.util.List;
  * Created by talenthub1 on 14/05/2017.
  */
 @Repository
-public class ProductDaoImpl implements IProductDao {
+public class ProductDaoImpl {
+
     @Autowired
     private SessionFactory _sessionFactory;
 

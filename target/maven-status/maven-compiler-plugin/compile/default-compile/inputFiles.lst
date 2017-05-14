@@ -1,0 +1,9 @@
+/Users/user/Desktop/spring-boot-samples-master/spring-boot-mysql-hibernate/src/main/java/netgloo/controllers/MainController.java
+/Users/user/Desktop/spring-boot-samples-master/spring-boot-mysql-hibernate/src/main/java/netgloo/entity/Product.java
+/Users/user/Desktop/spring-boot-samples-master/spring-boot-mysql-hibernate/src/main/java/netgloo/service/IProductService.java
+/Users/user/Desktop/spring-boot-samples-master/spring-boot-mysql-hibernate/src/main/java/netgloo/dao/IProductDao.java
+/Users/user/Desktop/spring-boot-samples-master/spring-boot-mysql-hibernate/src/main/java/netgloo/service/ProductServiceImpl.java
+/Users/user/Desktop/spring-boot-samples-master/spring-boot-mysql-hibernate/src/main/java/netgloo/dao/ProductDaoImpl.java
+/Users/user/Desktop/spring-boot-samples-master/spring-boot-mysql-hibernate/src/main/java/netgloo/Application.java
+/Users/user/Desktop/spring-boot-samples-master/spring-boot-mysql-hibernate/src/main/java/netgloo/configs/DatabaseConfig.java
+/Users/user/Desktop/spring-boot-samples-master/spring-boot-mysql-hibernate/src/main/java/netgloo/controllers/ProductController.java

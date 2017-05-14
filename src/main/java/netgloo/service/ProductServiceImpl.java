@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * Created by talenthub1 on 14/05/2017.
  */
-@Component
+
 @Service
 public class ProductServiceImpl implements IProductService {
 
